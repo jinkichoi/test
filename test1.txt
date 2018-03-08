@@ -1,6 +1,10 @@
 ﻿test 파일
+<<<<<<< HEAD
 line 1
 line 2
 line 3
 line 4
 line 5
+=======
+line 1
+>>>>>>> parent of ba50f8b... 라인 3 추가
